@@ -6,7 +6,7 @@ Computer Science Graduate from the University of Florida (May 2025)
 
 I'm currently seeking full-time opportunities in software engineering, where I can apply my experience building scalable web apps, intelligent systems, and interactive UIs using technologies like Python, C#, JavaScript, Angular, Svelte, and Unity.
 
-* 🌍  I'm based in Florida
+* 🌍  I'm based in West Palm Beach Florida
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/benjaminbryant-dev/)
 * ✉️  You can contact me at [Bencb03@gmail.com](mailto:Bencb03@gmail.com)
 * 🤝  I'm open to collaborating on Machine learning, Video Games, Hackathon Projects
